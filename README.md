@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/afb61a59-01a0-4304-a05c-807050a2d91b)
 
 # 💫 About Me:
-👋 Hey there! I'm Abdulaziz, a passionate software engineering student at KFUPM and the founder of ByteVectors 🎮, a startup dedicated to crafting immersive gaming experiences. My journey in game design & development has been fueled by creativity 🎨, technical expertise 💻, and a bold vision 🚀—to make ByteVectors one of the top gaming studios in Saudi Arabia 🇸🇦.<br><br>As a software engineer, I specialize in coding 👨‍💻, level design 🏗️, optimization ⚡, mechanics 🎯, UI/UX 🎨, and GDScript 📝. Beyond gaming, I'm diving into entrepreneurship & small enterprises 💼, constantly learning how to blend technology and business to drive innovation.<br><br>Let’s build something awesome together! 🚀🔥
+👋 Hey there!, i'm passionate software engineering student at KFUPM and the founder of ByteVectors 🎮, a startup dedicated to crafting immersive gaming experiences. My journey in game design & development has been fueled by creativity 🎨, technical expertise 💻, and a bold vision 🚀—to make ByteVectors one of the top gaming studios in Saudi Arabia 🇸🇦.<br><br>As a software engineer, I specialize in coding 👨‍💻, level design 🏗️, optimization ⚡, mechanics 🎯, UI/UX 🎨, and GDScript 📝. Beyond gaming, I'm diving into entrepreneurship & small enterprises 💼, constantly learning how to blend technology and business to drive innovation.<br><br>Let’s build something awesome together! 🚀🔥
 
 
 ## 🌐 Socials:
